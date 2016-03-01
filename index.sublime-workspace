@@ -1,0 +1,914 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"l",
+				"logo.png	w:500 h:93"
+			],
+			[
+				"mg",
+				"margin-top"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"geti",
+				"getElementById()	Document"
+			],
+			[
+				"get",
+				"getSeconds()"
+			],
+			[
+				"getD",
+				"getDay()"
+			],
+			[
+				"sub",
+				"substr()	String"
+			],
+			[
+				"chara",
+				"character	Default"
+			],
+			[
+				"w",
+				"write()	Document"
+			],
+			[
+				"par",
+				"parseInt()"
+			],
+			[
+				"pro",
+				"prompt()	Window"
+			],
+			[
+				"p",
+				"paddingRight	css"
+			],
+			[
+				"onc",
+				"onclick"
+			],
+			[
+				"A",
+				"ActiveXObject()"
+			],
+			[
+				"selec",
+				"selector	Default"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"sele",
+				"selector	Default"
+			],
+			[
+				"qu",
+				"querySelectorAll()"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"el",
+				"elements	Default"
+			],
+			[
+				"_",
+				"_adapterOne	Default"
+			],
+			[
+				"_m",
+				"_manyProperty	Default"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"onmos",
+				"onmouseout"
+			],
+			[
+				"nav",
+				"nav_list	Default"
+			],
+			[
+				"onmous",
+				"onmouseenter	IE"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mouse",
+				"onmouseenter	IE"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"tr",
+				"transformData	Default"
+			],
+			[
+				"one",
+				"oneData	Default"
+			],
+			[
+				"parse",
+				"parseFloat()"
+			],
+			[
+				"po",
+				"position	Default"
+			],
+			[
+				"clear",
+				"clearInterval()	Window"
+			],
+			[
+				"cle",
+				"clearInterval()	Frame"
+			],
+			[
+				"off",
+				"offsetLeft"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"re",
+				"replace()	Location"
+			],
+			[
+				"getC",
+				"getComputedStyle()	Window"
+			],
+			[
+				"trans",
+				"transition	Default"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"spl",
+				"split	Default"
+			],
+			[
+				"ret",
+				"return	Default"
+			],
+			[
+				"slice",
+				"slice()	Array"
+			],
+			[
+				"sp",
+				"split()	String"
+			],
+			[
+				"q",
+				"querySelectorAll()"
+			],
+			[
+				"sel",
+				"selector	Default"
+			],
+			[
+				"index",
+				"indexOf()	Array"
+			],
+			[
+				"pus",
+				"pusharr	Default"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"gete",
+				"getElementsByClassName()"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"dis",
+				"display	css"
+			],
+			[
+				"event",
+				"eventType	Default"
+			],
+			[
+				"ws",
+				"ws4.js"
+			],
+			[
+				"return",
+				"returnValue"
+			],
+			[
+				"pre",
+				"preventDefault	Event"
+			],
+			[
+				"can",
+				"cancelBubble	IE Event"
+			],
+			[
+				"stop",
+				"stopPropagation()	Event"
+			],
+			[
+				"src",
+				"srcElement	Event"
+			],
+			[
+				"bg",
+				"background"
+			],
+			[
+				"at",
+				"attachEvent()	IE"
+			],
+			[
+				"add",
+				"addEventListener()"
+			],
+			[
+				"tra",
+				"transformProducts	Default"
+			],
+			[
+				"of",
+				"offsetParent	Default"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"de",
+				"defaults	Default"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"offset",
+				"offsetLeft"
+			],
+			[
+				"ad",
+				"addEventListener()"
+			],
+			[
+				"gett",
+				"getElementsByTagName()	Document"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"getE",
+				"getElementsByClassName()"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"pd",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"su",
+				"substr()	String"
+			],
+			[
+				"toU",
+				"toUpperCase()	String"
+			],
+			[
+				"char",
+				"charAt()	String"
+			],
+			[
+				"sur",
+				"substring()	String"
+			],
+			[
+				"call",
+				"callback	Default"
+			],
+			[
+				"append",
+				"appendChild()"
+			],
+			[
+				"crea",
+				"createElement	Default"
+			],
+			[
+				"toS",
+				"toString()"
+			],
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"alt",
+				"alert()	Window"
+			],
+			[
+				"rea",
+				"readyState	Document"
+			],
+			[
+				"X",
+				"XMLHttpRequest()"
+			],
+			[
+				"cre",
+				"createElement()	Document"
+			],
+			[
+				"getM",
+				"getMinutes()"
+			],
+			[
+				"getF",
+				"getFullYear()"
+			],
+			[
+				"set",
+				"setTime()"
+			],
+			[
+				"tongbu",
+				"tongbutijiao.php"
+			],
+			[
+				"s",
+				"search	Area/Link"
+			],
+			[
+				"sta",
+				"status	Window"
+			],
+			[
+				"k",
+				"konva	Default"
+			],
+			[
+				"outer",
+				"outerStyle	Default"
+			],
+			[
+				"inn",
+				"innerStyle	Default"
+			],
+			[
+				"C",
+				"CircleText	Default"
+			],
+			[
+				"cen",
+				"cenY	Default"
+			],
+			[
+				"fon",
+				"fontWeight	css"
+			],
+			[
+				"ro",
+				"rotation	Default"
+			],
+			[
+				"we",
+				"wedges	Default"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ali",
+				"align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"line",
+				"lineTo()	Canvas 2"
+			],
+			[
+				"str",
+				"strokeStyle	Canvas 2"
+			],
+			[
+				"stroke",
+				"strokeStyle	Canvas 2"
+			],
+			[
+				"j",
+				"konva.min.js"
+			],
+			[
+				"gl",
+				"globalAlpha	Canvas 2"
+			],
+			[
+				"scale",
+				"scaleX	Default"
+			],
+			[
+				"strok",
+				"strokeStyle	Canvas 2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "sever",
+		"selected_items":
+		[
+			[
+				"sever",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"pic",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"set",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"togg",
+				"View: Toggle Tabs"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"stjs",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Document_x64/Downloads/Sublime Text Build 3083 x64/Sublime Text Build 3083 x64/Data/Packages/User/SublimeServer.sublime-settings",
+		"/E/自动接收文件/汪磊(E4E865G85495)/angular-boilerplate/app/index.html",
+		"/E/自动接收文件/汪磊(E4E865G85495)/angular-boilerplate/app/app.js",
+		"/E/自动接收文件/汪磊(E4E865G85495)/angular-boilerplate/app/coming_soon/ctrl.js",
+		"/E/自动接收文件/汪磊(E4E865G85495)/angular-boilerplate/app/in_theaters/ctrl.js",
+		"/E/自动接收文件/汪磊(E4E865G85495)/angular-boilerplate/app/in_theaters/in.html",
+		"/E/自动接收文件/汪磊(E4E865G85495)/angular-boilerplate/app/coming_soon/coming.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.961.612/index.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.961.615/app.js",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.961.614/controller.js",
+		"/E/个人作品/js/mi.js",
+		"/D/02--前端与移动（就业班）/01nodejs/2016-02-16/2016-02-16/demo/moviecat/index.html",
+		"/D/Document_x64/Downloads/Sublime Text Build 3083 x64/Sublime Text Build 3083 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/E/个人作品/new1.html",
+		"/E/个人作品/mi.html",
+		"/E/个人作品/css/mi.css",
+		"/D/02--前端与移动（就业班）/06-移动与Web 应用/02-移动web开发02/code/index.html",
+		"/E/项目实战/扒网页的小工具/扒网页的小工具/look/单页扒站小工具/www.1ke.co/Index.html",
+		"/D/02--前端与移动（就业班）/06-移动与Web 应用/02-移动web开发02/code/css/main.css",
+		"/D/02--前端与移动（就业班）/06-移动与Web 应用/02-移动web开发02/code/js/main.js",
+		"/D/02--前端与移动（就业班）/06-移动与Web 应用/02-移动web开发02/code/font/MiFie-Web-Font.eot",
+		"/D/02--前端与移动（就业班）/06-移动与Web 应用/资料/bootstrap-3.3.6/package.json",
+		"/E/自动接收文件/寒假作业/算法/49.html",
+		"/D/Document_x64/Downloads/Sublime Text Build 3083 x64/Sublime Text Build 3083 x64/Data/Packages/User/Side Bar Folders.sublime-settings",
+		"/E/自动接收文件/寒假作业/算法/46.html",
+		"/E/自动接收文件/寒假作业/35.html",
+		"/E/自动接收文件/寒假作业/25.html",
+		"/E/自动接收文件/寒假作业/27.html",
+		"/E/自动接收文件/寒假作业/28.html",
+		"/E/自动接收文件/寒假作业/34.html",
+		"/E/自动接收文件/寒假作业/26.html",
+		"/F/学习资料夹/13_输入年龄，得到能否考驾照.html",
+		"/E/自动接收文件/寒假作业/17.html",
+		"/E/自动接收文件/寒假作业/22.html",
+		"/E/自动接收文件/寒假作业/19.html",
+		"/E/自动接收文件/寒假作业/16.html",
+		"/E/自动接收文件/寒假作业/13.html",
+		"/E/自动接收文件/寒假作业/算法/6.html",
+		"/E/自动接收文件/寒假作业/算法/5.html",
+		"/E/自动接收文件/寒假作业/算法/7.html",
+		"/E/自动接收文件/寒假作业/算法/8.html",
+		"/E/自动接收文件/寒假作业/算法/3.html",
+		"/E/自动接收文件/寒假作业/算法/4.html",
+		"/E/自动接收文件/寒假作业/算法/2.html",
+		"/E/自动接收文件/寒假作业/算法/1.html",
+		"/E/mynode/one/.gitignore",
+		"/E/mynode/.gitignore",
+		"/E/mynode/one/src/script.js",
+		"/E/自动接收文件/anonymity-7(68F728978F79)/2016-01-26/gulp/README.md",
+		"/E/自动接收文件/anonymity-7(68F728978F79)/2016-01-26/gulp/code/gulpfile.js",
+		"/E/mynode/one/package.json",
+		"/E/mynode/one/dist/index.html",
+		"/E/mynode/one/index.html",
+		"/E/自动接收文件/jiaoshou(A82066052DEC)/上课资料/代码/备课代码/menuTemplate.html",
+		"/E/自动接收文件/jiaoshou(A82066052DEC)/上课资料/代码/备课代码/05-jQuery-jsonp.html",
+		"/E/wamp/www/20160124/php/1ajax.php",
+		"/E/自动接收文件/jiaoshou(A82066052DEC)/demo/js/ajax.js",
+		"/E/自动接收文件/jiaoshou(A82066052DEC)/demo/php/00-refresh.php",
+		"/E/自动接收文件/jiaoshou(A82066052DEC)/demo/01-ajax-get.html",
+		"/E/自动接收文件/jiaoshou(A82066052DEC)/demo/php/01-gettime.php",
+		"/C/Users/Administrator/Desktop/作业 计算页面停留时间.html",
+		"/E/自动接收文件/02课程/05.面向对象/框架最后一天/面向对象和框架所有资料/第06部分 框架/12 附录1  基于伪数组封装框架/01 六脉神剑1 零污染和框架雏形/01 零污染和框架雏形复习.html",
+		"/E/框架/练习链式访问.html",
+		"/E/框架/Qws.js",
+		"/E/自动接收文件/02课程/05.面向对象/框架最后一天/面向对象和框架所有资料/第06部分 框架/14 附录3/itcast_new.js",
+		"/E/自动接收文件/02课程/05.面向对象/框架最后一天/面向对象和框架所有资料/第06部分 框架/12 附录1  基于伪数组封装框架/01 六脉神剑1 零污染和框架雏形/02 框架改造.html",
+		"/E/框架/框架改造--伪数组.html",
+		"/E/自动接收文件/02课程/05.面向对象/框架最后一天/面向对象和框架所有资料/第06部分 框架/14 附录3/itcast.js",
+		"/E/自动接收文件/02课程/05.面向对象/框架最后一天/面向对象和框架所有资料/第06部分 框架/12 附录1  基于伪数组封装框架/02 双管齐下/01 window onload.html",
+		"/F/xuexi/style.css",
+		"/F/xuexi/style.scss",
+		"/F/xuexi/css/style.css",
+		"/E/框架/命名空间版框架.js",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.544.3286/index.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.544.3284/index.html",
+		"/E/项目实战/扒网页的小工具/扒网页的小工具/look/单页扒站小工具/www.mi.com/js/base.min.js",
+		"/E/个人作品/index.js",
+		"/E/个人作品/css/css/index.css",
+		"/E/框架/ceshi1.html",
+		"/E/框架/动画.html",
+		"/E/框架/多个属性动画.html",
+		"/E/框架/贝塞尔曲线.html",
+		"/E/框架/ceshi6.html",
+		"/E/框架/ceshi5.html",
+		"/E/框架/ceshi4.html",
+		"/E/自动接收文件/Lenovo(F0761C9FAFA2)/第06部分 框架/04 CSS样式框架/itcast.js",
+		"/E/项目实战/扒网页的小工具/扒网页的小工具/look/单页扒站小工具/www.mi.com/mi/css/basic.css",
+		"/E/项目实战/扒网页的小工具/扒网页的小工具/look/单页扒站小工具/www.mi.com/mi/index.html",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/04 CSS样式框架/04 位置 - 知道 明天自学/01 位置用法 获取位置.html",
+		"/E/框架/ws4.js",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/06 内容框架/04 jquery val用法复习.html",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/05 属性框架/08 再额外新增几个class相关操作.html",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/09 运动框架/01 基于时间运动框架 函数闭包版本/01 动画复习.html",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/09 运动框架/01 基于时间运动框架 函数闭包版本/02 哼哈二将理论知识讲解 - 最简单的基于时间动画.html",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/09 运动框架/01 基于时间运动框架 函数闭包版本/03 封装进程成一个函数.html",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/09 运动框架/01 基于时间运动框架 函数闭包版本/04 使用子函数封装.html",
+		"/E/框架/tab.html",
+		"/E/框架/防qq菜单栏/散列.html",
+		"/E/框架/防qq菜单栏/cesi.html",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/09 运动框架/01 基于时间运动框架 函数闭包版本/07 面向用户编程 - 适配器模式的通俗版本 - 单一职责原则.html",
+		"/E/自动接收文件/匿名(507B9D2EF9F6)/1-18  6传多个属性版animate.html",
+		"/E/自动接收文件/02课程/05.面向对象/10框架第三天/第06部分 框架/09 运动框架/01 基于时间运动框架 函数闭包版本/05 贝塞尔曲线复习.html",
+		"/E/框架/css.base.css",
+		"/C/Users/Administrator/Desktop/仿网易轮播图/王爽作业/自己的综合案例/demo.html",
+		"/E/全屏滚动/fullPage.html",
+		"/E/练习/王爽/2.字体变大变小问题.html",
+		"/E/练习/又.html",
+		"/E/框架/ceshi2.html",
+		"/E/自动接收文件/02课程/01.css3/小强老师的css 3d补课/案例/07 切割轮播图/index js部分.html",
+		"/E/自动接收文件/02课程/01.css3/小强老师的css 3d补课/案例/07 切割轮播图/切割轮播图.html",
+		"/E/自动接收文件/02课程/01.css3/小强老师的css 3d补课/案例/07 切割轮播图/index css部分.html",
+		"/E/自动接收文件/02课程/01.css3/小强老师的css 3d补课/案例/07 切割轮播图/index.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.717.3129/itcast.js",
+		"/E/自动接收文件/02课程/01.css3/小强老师的css 3d补课/类似QQ客服始终悬浮在网页右侧并可依次展开的菜单导航/index js.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.299.1511/itcast.js",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.299.1512/itcast.js",
+		"/E/自动接收文件/02课程/01.css3/小强老师的css 3d补课/类似QQ客服始终悬浮在网页右侧并可依次展开的菜单导航/css/css.css",
+		"/E/框架/防qq菜单栏/类似QQ客服始终悬浮在网页右侧并可依次展开的菜单导航.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.335.1387/itcast.js",
+		"/E/框架/ws2.js",
+		"/E/框架/ws1.js",
+		"/E/框架/ws3.js",
+		"/E/框架/ceshi3.html",
+		"/E/框架/类似QQ客服始终悬浮在网页右侧并可依次展开的菜单导航.html",
+		"/E/自动接收文件/02课程/01.css3/小强老师的css 3d补课/CSS 3 爆炸轮播图（案例及其视频）/案例/demo js部分.html",
+		"/E/自动接收文件/02课程/01.css3/小强老师的css 3d补课/CSS 3 爆炸轮播图（案例及其视频）/案例/demo css部分.html",
+		"/F/笔记与视频/课程1/基础班资料/前端基本功/课上练习/05 隔行变色 js.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.598.499/02 阻止冒泡.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 137.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logo",
+			"num",
+			"不及格",
+			"优秀",
+			"第三题",
+			"data",
+			"note4gds",
+			"hongmi2",
+			"obj",
+			" .",
+			";\n",
+			"getClass",
+			"记住参数即可",
+			"duration",
+			"微笑",
+			";\n",
+			"素材",
+			"red",
+			"1",
+			" $$.on(\"div1\", \"click\", function() {\n    this.style.background = \"red\";\n  })",
+			"50px",
+			"\";)",
+			"    ",
+			" if (event.stopPropagation) {\n        event.stopPropagation();\n      } else {\n        event.cancelBubble = true;\n      }",
+			"this",
+			");\n",
+			"this",
+			"ebook",
+			"+='';\n",
+			"p1",
+			"info",
+			"$username=$_GET['username'];\n$password=$_GET['password'];",
+			"    <",
+			");\n",
+			"sAngle",
+			"    ",
+			"></",
+			">\n",
+			"真实",
+			"class",
+			"选项3",
+			"default",
+			".panel-default",
+			"panel-default",
+			"panel",
+			"carousel-example-generic",
+			"nav_list",
+			"    <",
+			"A4CA39",
+			"apm",
+			"PS C:\\Users\\iceStone>",
+			"Installing language-babel to C:\\Users\\iceStone\\AppData\\Local\\Atom\\packages done\nPS C:\\Users\\iceStone>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
